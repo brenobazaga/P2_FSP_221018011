@@ -1,0 +1,217 @@
+"ente","variavel","ano","original","verificado","dif_pct"
+"Alagoinhas","População",2015,153591,154495,-0.59
+"Alagoinhas","População",2016,154495,155362,-0.56
+"Alagoinhas","População",2017,155362,155979,-0.4
+"Alagoinhas","População",2018,156202,150832,3.56
+"Alagoinhas","População",2019,157017,151596,3.58
+"Alagoinhas","População",2020,157805,152327,3.6
+"Alagoinhas","População",2021,158737,153023,3.73
+"Alagoinhas","População",2022,151065,151055,0.01
+"Alagoinhas","População",2023,152010,155784,-2.42
+"Alagoinhas","População",2024,153050,160662,-4.74
+"Alagoinhas","PIB nominal",2015,2737826,2737826,0
+"Alagoinhas","PIB nominal",2016,3171737,3171737,0
+"Alagoinhas","PIB nominal",2017,3504871,3504871,0
+"Alagoinhas","PIB nominal",2018,3963002,3963002,0
+"Alagoinhas","PIB nominal",2019,4349226,4349226,0
+"Alagoinhas","PIB nominal",2020,4455016,4455016,0
+"Alagoinhas","PIB nominal",2021,4980210,4533420,9.86
+"Alagoinhas","PIB nominal",2022,5524310,5150946,7.25
+"Alagoinhas","PIB nominal",2023,6012450,5705227,5.38
+"Alagoinhas","Deflator IPCA (2024=1)",2015,1.6212,1.613,0.51
+"Alagoinhas","Deflator IPCA (2024=1)",2016,1.5253,1.4833,2.83
+"Alagoinhas","Deflator IPCA (2024=1)",2017,1.4816,1.4339,3.33
+"Alagoinhas","Deflator IPCA (2024=1)",2018,1.4287,1.3832,3.29
+"Alagoinhas","Deflator IPCA (2024=1)",2019,1.3698,1.3334,2.73
+"Alagoinhas","Deflator IPCA (2024=1)",2020,1.3106,1.292,1.44
+"Alagoinhas","Deflator IPCA (2024=1)",2021,1.1908,1.1929,-0.18
+"Alagoinhas","Deflator IPCA (2024=1)",2022,1.1255,1.0916,3.11
+"Alagoinhas","Deflator IPCA (2024=1)",2023,1.0543,1.0437,1.02
+"Alagoinhas","Deflator IPCA (2024=1)",2024,1,1,0
+"Alagoinhas","Receita total (bruta, exceto intra)",2015,275900,293983,-6.15
+"Alagoinhas","Receita total (bruta, exceto intra)",2016,297600,327834.5,-9.22
+"Alagoinhas","Receita total (bruta, exceto intra)",2017,325900,357265.7,-8.78
+"Alagoinhas","Receita total (bruta, exceto intra)",2018,374700,408016.3,-8.17
+"Alagoinhas","Receita total (bruta, exceto intra)",2019,389300,424543.6,-8.3
+"Alagoinhas","Receita total (bruta, exceto intra)",2020,408000,441153.9,-7.52
+"Alagoinhas","Receita total (bruta, exceto intra)",2021,441400,580632.9,-23.98
+"Alagoinhas","Receita total (bruta, exceto intra)",2022,624900,684369.2,-8.69
+"Alagoinhas","Receita total (bruta, exceto intra)",2023,608200,664260.8,-8.44
+"Alagoinhas","Receita total (bruta, exceto intra)",2024,776500,840580.2,-7.62
+"Alagoinhas","Receita tributária própria",2015,40150,36873.6,8.89
+"Alagoinhas","Receita tributária própria",2016,42300,37489.6,12.83
+"Alagoinhas","Receita tributária própria",2017,45100,38336.5,17.64
+"Alagoinhas","Receita tributária própria",2018,51200,49270.9,3.92
+"Alagoinhas","Receita tributária própria",2019,56300,54282.9,3.72
+"Alagoinhas","Receita tributária própria",2020,61800,53152.4,16.27
+"Alagoinhas","Receita tributária própria",2021,71200,63271.7,12.53
+"Alagoinhas","Receita tributária própria",2022,85400,97207,-12.15
+"Alagoinhas","Receita tributária própria",2023,92100,99421.6,-7.36
+"Alagoinhas","Receita tributária própria",2024,110200,123432.2,-10.72
+"Alagoinhas","Transferências intergovernamentais",2015,225100,226289.8,-0.53
+"Alagoinhas","Transferências intergovernamentais",2016,242800,254948.2,-4.76
+"Alagoinhas","Transferências intergovernamentais",2017,266900,270736.6,-1.42
+"Alagoinhas","Transferências intergovernamentais",2018,306800,296317.8,3.54
+"Alagoinhas","Transferências intergovernamentais",2019,316800,317503.6,-0.22
+"Alagoinhas","Transferências intergovernamentais",2020,328600,327790.3,0.25
+"Alagoinhas","Transferências intergovernamentais",2021,352600,456210.9,-22.71
+"Alagoinhas","Transferências intergovernamentais",2022,513200,475237.7,7.99
+"Alagoinhas","Transferências intergovernamentais",2023,494100,480162.3,2.9
+"Alagoinhas","Transferências intergovernamentais",2024,631500,562789.5,12.21
+"Alagoinhas","Despesa total liquidada",2015,269500,267885.2,0.6
+"Alagoinhas","Despesa total liquidada",2016,297400,296666.2,0.25
+"Alagoinhas","Despesa total liquidada",2017,319500,311328.7,2.62
+"Alagoinhas","Despesa total liquidada",2018,376200,370743.1,1.47
+"Alagoinhas","Despesa total liquidada",2019,397900,391938.7,1.52
+"Alagoinhas","Despesa total liquidada",2020,410600,409075.3,0.37
+"Alagoinhas","Despesa total liquidada",2021,361800,446196.1,-18.91
+"Alagoinhas","Despesa total liquidada",2022,679500,678635.1,0.13
+"Alagoinhas","Despesa total liquidada",2023,631700,626942.8,0.76
+"Alagoinhas","Despesa total liquidada",2024,774750,772697.2,0.27
+"Alagoinhas","Despesa com pessoal",2015,142100,121153.4,17.29
+"Alagoinhas","Despesa com pessoal",2016,158300,137508.3,15.12
+"Alagoinhas","Despesa com pessoal",2017,172600,149562,15.4
+"Alagoinhas","Despesa com pessoal",2018,198400,162022.4,22.45
+"Alagoinhas","Despesa com pessoal",2019,215600,168721.2,27.78
+"Alagoinhas","Despesa com pessoal",2020,229800,168998.6,35.98
+"Alagoinhas","Despesa com pessoal",2021,225100,187235.3,20.22
+"Alagoinhas","Despesa com pessoal",2022,298400,275112.3,8.46
+"Alagoinhas","Despesa com pessoal",2023,321500,254260.3,26.45
+"Alagoinhas","Despesa com pessoal",2024,385600,246417.8,56.48
+"Alagoinhas","Despesa com investimentos",2015,12400,15274.3,-18.82
+"Alagoinhas","Despesa com investimentos",2016,14100,15508.1,-9.08
+"Alagoinhas","Despesa com investimentos",2017,15800,21723.4,-27.27
+"Alagoinhas","Despesa com investimentos",2018,18200,32357.3,-43.75
+"Alagoinhas","Despesa com investimentos",2019,19700,32912.4,-40.14
+"Alagoinhas","Despesa com investimentos",2020,17500,31376.2,-44.23
+"Alagoinhas","Despesa com investimentos",2021,16400,16022.6,2.36
+"Alagoinhas","Despesa com investimentos",2022,32100,66030.9,-51.39
+"Alagoinhas","Despesa com investimentos",2023,28400,27014.3,5.13
+"Alagoinhas","Despesa com investimentos",2024,42300,135381.9,-68.76
+"Alagoinhas","Grau de dependência (%)",2015,81.59,76.97,6
+"Alagoinhas","Grau de dependência (%)",2016,81.59,77.77,4.91
+"Alagoinhas","Grau de dependência (%)",2017,81.89,75.78,8.06
+"Alagoinhas","Grau de dependência (%)",2018,81.88,72.62,12.75
+"Alagoinhas","Grau de dependência (%)",2019,81.38,74.79,8.81
+"Alagoinhas","Grau de dependência (%)",2020,80.54,74.3,8.4
+"Alagoinhas","Grau de dependência (%)",2021,79.88,78.57,1.67
+"Alagoinhas","Grau de dependência (%)",2022,82.12,69.44,18.26
+"Alagoinhas","Grau de dependência (%)",2023,81.24,72.29,12.38
+"Alagoinhas","Grau de dependência (%)",2024,81.33,66.95,21.48
+"Alagoinhas","Esforço arrecadatório (% PIB)",2015,1.47,1.347,9.13
+"Alagoinhas","Esforço arrecadatório (% PIB)",2016,1.33,1.182,12.52
+"Alagoinhas","Esforço arrecadatório (% PIB)",2017,1.29,1.094,17.92
+"Alagoinhas","Esforço arrecadatório (% PIB)",2018,1.29,1.243,3.78
+"Alagoinhas","Esforço arrecadatório (% PIB)",2019,1.29,1.248,3.37
+"Alagoinhas","Esforço arrecadatório (% PIB)",2020,1.39,1.193,16.51
+"Alagoinhas","Esforço arrecadatório (% PIB)",2021,1.43,1.396,2.44
+"Alagoinhas","Esforço arrecadatório (% PIB)",2022,1.55,1.887,-17.86
+"Alagoinhas","Esforço arrecadatório (% PIB)",2023,1.53,1.743,-12.22
+"Juazeiro","População",2015,218324,218324,0
+"Juazeiro","População",2016,220253,220253,0
+"Juazeiro","População",2017,221773,221773,0
+"Juazeiro","População",2018,223246,215183,3.75
+"Juazeiro","População",2019,224672,216707,3.68
+"Juazeiro","População",2020,226053,218162,3.62
+"Juazeiro","População",2021,227415,219544,3.59
+"Juazeiro","População",2022,235816,237821,-0.84
+"Juazeiro","População",2023,237821,246010,-3.33
+"Juazeiro","População",2024,239850,254481,-5.75
+"Juazeiro","PIB nominal",2015,3135297,3135297,0
+"Juazeiro","PIB nominal",2016,3434922,3434922,0
+"Juazeiro","PIB nominal",2017,3704682,3704682,0
+"Juazeiro","PIB nominal",2018,4095546,4095546,0
+"Juazeiro","PIB nominal",2019,4383833,4383833,0
+"Juazeiro","PIB nominal",2020,4392098,4392098,0
+"Juazeiro","PIB nominal",2021,4890120,5182686,-5.65
+"Juazeiro","PIB nominal",2022,5450300,5505939,-1.01
+"Juazeiro","PIB nominal",2023,5920150,6159604,-3.89
+"Juazeiro","Deflator IPCA (2024=1)",2015,1.6212,1.613,0.51
+"Juazeiro","Deflator IPCA (2024=1)",2016,1.5253,1.4833,2.83
+"Juazeiro","Deflator IPCA (2024=1)",2017,1.4816,1.4339,3.33
+"Juazeiro","Deflator IPCA (2024=1)",2018,1.4287,1.3832,3.29
+"Juazeiro","Deflator IPCA (2024=1)",2019,1.3698,1.3334,2.73
+"Juazeiro","Deflator IPCA (2024=1)",2020,1.3106,1.292,1.44
+"Juazeiro","Deflator IPCA (2024=1)",2021,1.1908,1.1929,-0.18
+"Juazeiro","Deflator IPCA (2024=1)",2022,1.1255,1.0916,3.11
+"Juazeiro","Deflator IPCA (2024=1)",2023,1.0543,1.0437,1.02
+"Juazeiro","Deflator IPCA (2024=1)",2024,1,1,0
+"Juazeiro","Receita total (bruta, exceto intra)",2015,454300,468783.9,-3.09
+"Juazeiro","Receita total (bruta, exceto intra)",2016,531500,544376,-2.37
+"Juazeiro","Receita total (bruta, exceto intra)",2017,524200,526562.3,-0.45
+"Juazeiro","Receita total (bruta, exceto intra)",2018,586500,591616.8,-0.86
+"Juazeiro","Receita total (bruta, exceto intra)",2019,672600,676551.4,-0.58
+"Juazeiro","Receita total (bruta, exceto intra)",2020,719700,729444.8,-1.34
+"Juazeiro","Receita total (bruta, exceto intra)",2021,794700,805835.3,-1.38
+"Juazeiro","Receita total (bruta, exceto intra)",2022,982700,1002279.8,-1.95
+"Juazeiro","Receita total (bruta, exceto intra)",2023,1073200,1095717.3,-2.06
+"Juazeiro","Receita total (bruta, exceto intra)",2024,1272000,1298063.5,-2.01
+"Juazeiro","Receita tributária própria",2015,58400,42007.3,39.02
+"Juazeiro","Receita tributária própria",2016,63200,42679.5,48.08
+"Juazeiro","Receita tributária própria",2017,65100,49654.3,31.11
+"Juazeiro","Receita tributária própria",2018,74800,70191.7,6.57
+"Juazeiro","Receita tributária própria",2019,86400,80612.1,7.18
+"Juazeiro","Receita tributária própria",2020,95100,83784.2,13.51
+"Juazeiro","Receita tributária própria",2021,105200,82970,26.79
+"Juazeiro","Receita tributária própria",2022,132500,126299.6,4.91
+"Juazeiro","Receita tributária própria",2023,142100,124327.7,14.29
+"Juazeiro","Receita tributária própria",2024,168400,145857,15.46
+"Juazeiro","Transferências intergovernamentais",2015,381600,366498.8,4.12
+"Juazeiro","Transferências intergovernamentais",2016,450100,423804.5,6.2
+"Juazeiro","Transferências intergovernamentais",2017,442800,390870.5,13.29
+"Juazeiro","Transferências intergovernamentais",2018,493200,435711,13.19
+"Juazeiro","Transferências intergovernamentais",2019,564800,485074.3,16.44
+"Juazeiro","Transferências intergovernamentais",2020,601200,521299.9,15.33
+"Juazeiro","Transferências intergovernamentais",2021,663800,602845,10.11
+"Juazeiro","Transferências intergovernamentais",2022,819200,735476.6,11.38
+"Juazeiro","Transferências intergovernamentais",2023,898500,792081.8,13.44
+"Juazeiro","Transferências intergovernamentais",2024,1065100,965845.1,10.28
+"Juazeiro","Despesa total liquidada",2015,431400,431402.1,0
+"Juazeiro","Despesa total liquidada",2016,490100,490092,0
+"Juazeiro","Despesa total liquidada",2017,509700,509677.7,0
+"Juazeiro","Despesa total liquidada",2018,576100,576121,0
+"Juazeiro","Despesa total liquidada",2019,633700,604115.9,4.9
+"Juazeiro","Despesa total liquidada",2020,669100,669101,0
+"Juazeiro","Despesa total liquidada",2021,739600,739403.3,0.03
+"Juazeiro","Despesa total liquidada",2022,1010500,1020479.2,-0.98
+"Juazeiro","Despesa total liquidada",2023,1053400,1053357.3,0
+"Juazeiro","Despesa total liquidada",2024,1157000,1214053.7,-4.7
+"Juazeiro","Despesa com pessoal",2015,242100,244929.1,-1.16
+"Juazeiro","Despesa com pessoal",2016,281400,279721.1,0.6
+"Juazeiro","Despesa com pessoal",2017,301200,300655.3,0.18
+"Juazeiro","Despesa com pessoal",2018,341500,357624.4,-4.51
+"Juazeiro","Despesa com pessoal",2019,388600,397837.2,-2.32
+"Juazeiro","Despesa com pessoal",2020,422400,418104.5,1.03
+"Juazeiro","Despesa com pessoal",2021,458900,471253.7,-2.62
+"Juazeiro","Despesa com pessoal",2022,532100,564113.1,-5.67
+"Juazeiro","Despesa com pessoal",2023,625500,605114.1,3.37
+"Juazeiro","Despesa com pessoal",2024,657800,693961.8,-5.21
+"Juazeiro","Despesa com investimentos",2015,21500,25577.2,-15.94
+"Juazeiro","Despesa com investimentos",2016,26800,35174,-23.81
+"Juazeiro","Despesa com investimentos",2017,24100,20868.3,15.49
+"Juazeiro","Despesa com investimentos",2018,29500,20275.7,45.49
+"Juazeiro","Despesa com investimentos",2019,31200,20567.7,51.69
+"Juazeiro","Despesa com investimentos",2020,28900,36975.3,-21.84
+"Juazeiro","Despesa com investimentos",2021,34500,32029.9,7.71
+"Juazeiro","Despesa com investimentos",2022,41200,45789.2,-10.02
+"Juazeiro","Despesa com investimentos",2023,44500,34423.4,29.27
+"Juazeiro","Despesa com investimentos",2024,51200,44647.1,14.68
+"Juazeiro","Grau de dependência (%)",2015,84,78.18,7.44
+"Juazeiro","Grau de dependência (%)",2016,84.68,77.85,8.77
+"Juazeiro","Grau de dependência (%)",2017,84.47,74.23,13.79
+"Juazeiro","Grau de dependência (%)",2018,84.09,73.65,14.18
+"Juazeiro","Grau de dependência (%)",2019,83.97,71.7,17.11
+"Juazeiro","Grau de dependência (%)",2020,83.53,71.47,16.87
+"Juazeiro","Grau de dependência (%)",2021,83.53,74.81,11.66
+"Juazeiro","Grau de dependência (%)",2022,83.36,73.38,13.6
+"Juazeiro","Grau de dependência (%)",2023,83.72,72.29,15.81
+"Juazeiro","Grau de dependência (%)",2024,83.73,74.41,12.53
+"Juazeiro","Esforço arrecadatório (% PIB)",2015,1.86,1.34,38.81
+"Juazeiro","Esforço arrecadatório (% PIB)",2016,1.84,1.243,48.03
+"Juazeiro","Esforço arrecadatório (% PIB)",2017,1.76,1.34,31.34
+"Juazeiro","Esforço arrecadatório (% PIB)",2018,1.83,1.714,6.77
+"Juazeiro","Esforço arrecadatório (% PIB)",2019,1.97,1.839,7.12
+"Juazeiro","Esforço arrecadatório (% PIB)",2020,2.17,1.908,13.73
+"Juazeiro","Esforço arrecadatório (% PIB)",2021,2.15,1.601,34.29
+"Juazeiro","Esforço arrecadatório (% PIB)",2022,2.43,2.294,5.93
+"Juazeiro","Esforço arrecadatório (% PIB)",2023,2.4,2.018,18.93

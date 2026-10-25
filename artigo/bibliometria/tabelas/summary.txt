@@ -1,0 +1,210 @@
+$MainInformation
+ [1] "\n\nMAIN INFORMATION ABOUT DATA\n\n"                  "Timespan                              1970 : 2024 \n"
+ [3] "Sources (Journals, Books, etc)        1638 \n"        "Documents                             3683 \n"       
+ [5] "Annual Growth Rate %                  7.76 \n"        "Document Average Age                  14.6 \n"       
+ [7] "Average citations per doc             16.68 \n"       "Average citations per year per doc    0.948 \n"      
+ [9] "References                            29081 \n"       "\nDOCUMENT TYPES                     \n"             
+[11] "article      3683 \n"                                 "\nDOCUMENT CONTENTS\n"                               
+[13] "Keywords Plus (ID)                    1306 \n"        "Author's Keywords (DE)                7181 \n"       
+[15] "\nAUTHORS\n"                                          "Authors                               4874 \n"       
+[17] "Author Appearances                    6350 \n"        "Authors of single-authored docs       1571 \n"       
+[19] "\nAUTHORS COLLABORATION\n"                            "Single-authored docs                  1941 \n"       
+[21] "Documents per Author                  0.756 \n"       "Co-Authors per Doc                    1.72 \n"       
+[23] "International co-authorships %        7.25 \n"        "\n"                                                  
+
+$MainInformationDF
+                          Description   Results
+1         MAIN INFORMATION ABOUT DATA          
+2                            Timespan 1970:2024
+3      Sources (Journals, Books, etc)      1638
+4                           Documents      3683
+5                Annual Growth Rate %      7.76
+6                Document Average Age      14.6
+7           Average citations per doc     16.68
+8  Average citations per year per doc     0.948
+9                          References     29081
+10                     DOCUMENT TYPES          
+11                            article      3683
+12                  DOCUMENT CONTENTS          
+13                 Keywords Plus (ID)      1306
+14             Author's Keywords (DE)      7181
+15                            AUTHORS          
+16                            Authors      4874
+17                 Author Appearances      6350
+18    Authors of single-authored docs      1571
+19              AUTHORS COLLABORATION          
+20               Single-authored docs      1941
+21               Documents per Author     0.756
+22                 Co-Authors per Doc      1.72
+23     International co-authorships %      7.25
+24                                             
+
+$AnnualProduction
+   Year    Articles
+1     1970        3
+2     1971        6
+3     1972        4
+4     1973        7
+5     1974        7
+6     1975        8
+7     1976        7
+8     1977        9
+9     1978        7
+10    1979        5
+11    1980        8
+12    1981       10
+13    1982       14
+14    1983       15
+15    1984       10
+16    1985        5
+17    1986       11
+18    1987       18
+19    1988       10
+20    1989       14
+21    1990       16
+22    1991       17
+23    1992       22
+24    1993       23
+25    1994       17
+26    1995       42
+27    1996       38
+28    1997       31
+29    1998       31
+30    1999       52
+31    2000       52
+32    2001       50
+33    2002       76
+34    2003       61
+35    2004       63
+36    2005       64
+37    2006       84
+38    2007       87
+39    2008      103
+40    2009      125
+41    2010      106
+42    2011      129
+43    2012      163
+44    2013      148
+45    2014      169
+46    2015      176
+47    2016      174
+48    2017      171
+49    2018      183
+50    2019      177
+51    2020      183
+52    2021      182
+53    2022      143
+54    2023      177
+55    2024      170
+
+$AnnualGrowthRate
+[1] 7.76
+
+$MostProdAuthors
+                Authors        Articles              Authors        Articles Fractionalized
+1  BRIAN EDWARD DOLLERY              27 BRIAN EDWARD DOLLERY                          13.67
+2  LARS P. FELD                      18 INTERNATIONAL MONETARY FUND                   11.00
+3  WALLACE E. OATES                  14 WALLACE E. OATES                              10.41
+4  RICHARD MILLER BIRD               13 BEATA GUZIEJEWSKA                              8.33
+5  ANDREW C. WORTHINGTON             12 RICHARD MILLER BIRD                            8.33
+6  INTERNATIONAL MONETARY FUND       12 LARS P. FELD                                   7.50
+7  JORGE MARTÍNEZ-VÁZQUEZ            11 PAULO REIS MOURÃO                              7.33
+8  PHILIP R. JONES                   10 ROSELLA LEVAGGI                                7.00
+9  ROSELLA LEVAGGI                   10 FEDERICO PICA                                  6.50
+10 THUSHYANTHAN BASKARAN             10 SALVATORE VILLANI                              6.50
+11 BEATA GUZIEJEWSKA                  9 THUSHYANTHAN BASKARAN                          6.17
+12 CHRISTOPH A. SCHALTEGGER           9 ANDREW C. WORTHINGTON                          5.83
+13 PAULO REIS MOURÃO                  9 JESSICA N. TERMAN                              5.75
+14 ROY BAHL                           9 DAVID E. WILDASIN                              5.67
+15 ANDREW J. ABBOTT                   8 ROY BAHL                                       5.67
+
+$MostCitedPapers
+                Paper                                    DOI   TC TCperYear   NTC
+1  WALLACE E. OATES, 1999,     10.1257/jel.37.3.1120         3566    127.36 35.67
+2  RÉMY PRUD'HOMME, 1995,      10.1093/wbro/10.2.201         1887     58.97 17.35
+3  PRANAB BARDHAN, 2002,       10.1257/089533002320951037    1814     72.56 29.01
+4  WALLACE E. OATES, 2005,     10.1007/s10797-005-1619-9     1233     56.05 29.12
+5  JAMES R. HINES, 1995,       10.1257/jep.9.4.217            820     25.62  7.54
+6  ALBERTO ALESINA, 1995,      10.2307/3867338                750     23.44  6.89
+7  JONATHAN RODDEN, 2002,      10.2307/3088407                730     29.20 11.67
+8  BARRY R.VE WEINGAST, 2008,  10.1016/j.jue.2008.12.005      713     37.53 29.43
+9  JÜRGEN VON HAGEN, 1995,     10.1016/0014-2921(94)00084-d   601     18.78  5.52
+10 JONATHAN RODDEN, 2005,      NA                             515     23.41 12.16
+11 UGO G. PANIZZA, 1999,       10.1016/s0047-2727(99)00020-1  467     16.68  4.67
+12 JONATHAN RODDEN, 2003,      10.1017/s0020818303574021      463     19.29 14.02
+13 ROGER GORDON, 1983,         10.2307/1881778                446     10.14  8.45
+14 ROBIN BOADWAY, 1982,        10.2307/134918                 422      9.38  6.09
+15 BRIAN G. KNIGHT, 2002,      10.1257/000282802760015612     421     16.84  6.73
+
+$MostProdCountries
+              Country Articles   Freq  SCP MCP MCP_Ratio
+1  NA                     1650 0.4480 1646   4   0.00242
+2  USA                     461 0.1252  430  31   0.06725
+3  INDONESIA               202 0.0548  199   3   0.01485
+4  CHINA                    94 0.0255   80  14   0.14894
+5  NIGERIA                  91 0.0247   85   6   0.06593
+6  UNITED KINDOM            91 0.0247   62  29   0.31868
+7  GERMANY                  88 0.0239   64  24   0.27273
+8  RUSSIAN FEDERATION       84 0.0228   78   6   0.07143
+9  UKRAINE                  84 0.0228   83   1   0.01190
+10 CANADA                   83 0.0225   69  14   0.16867
+11 INDIA                    74 0.0201   70   4   0.05405
+12 BRAZIL                   73 0.0198   63  10   0.13699
+13 ITALY                    62 0.0168   50  12   0.19355
+14 AUSTRALIA                50 0.0136   38  12   0.24000
+15 SPAIN                    46 0.0125   38   8   0.17391
+
+$TCperCountries
+                       Country      Total Citations Average Article Citations
+1  USA                                        25502                     55.32
+2  NA                                         13924                      8.44
+3  UNITED KINDOM                               3004                     33.01
+4  GERMANY                                     2802                     31.84
+5  CANADA                                      2241                     27.00
+6  SPAIN                                       2150                     46.74
+7  AUSTRALIA                                   1238                     24.76
+8  ITALY                                       1066                     17.19
+9  BRAZIL                                       750                     10.27
+10 INDONESIA                                    729                      3.61
+11 CHINA                                        676                      7.19
+12 FRANCE                                       635                     21.90
+13 BELGIUM                                      609                     25.38
+14 NIGERIA                                      595                      6.54
+15 ARGENTINA                                    511                     24.33
+
+$MostRelSources
+                                                                              Sources        Articles
+1  RePEc: Research Papers in Economics                                                             94
+2  Publius The Journal of Federalism                                                               58
+3  Public Choice                                                                                   47
+4  Journal of Public Economics                                                                     34
+5  Public Finance Review                                                                           34
+6  Dialnet (Universidad de la Rioja)                                                               28
+7  Public Budgeting &amp Finance                                                                   28
+8  LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)       26
+9  National Tax Journal                                                                            26
+10 DOAJ (DOAJ: Directory of Open Access Journals)                                                  25
+11 European Journal of Political Economy                                                           24
+12 International Tax and Public Finance                                                            24
+13 Public Finance and Management                                                                   19
+14 Voprosy Ekonomiki                                                                               19
+15 Environment and Planning C Government and Policy                                                18
+
+$MostRelKeywords
+     Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
+1  FISCAL FEDERALISM               2330      ECONOMICS             1397
+2  INTERGOVERNMENTAL TRANSFERS     1207      FISCAL FEDERALISM     1175
+3  FISCAL DECENTRALIZATION          787      FEDERALISM             951
+4  FLYPAPER EFFECT                  521      REVENUE                779
+5  LOCAL GOVERNMENT FINANCE         497      DECENTRALIZATION       577
+6  FISCAL ILLUSION                  318      GOVERNMENT             480
+7  LOCAL GOVERNMENT SPENDING        284      POLITICAL SCIENCE      387
+8  DECENTRALIZATION                 281      POLITICS               355
+9  FISCAL TRANSFERS                 251      LOCAL GOVERNMENT       328
+10 GENERAL ALLOCATION FUND          195      PUBLIC ECONOMICS       261
+11 FEDERALISM                       180      STATE                  251
+12 LOCAL OWN-SOURCE REVENUE         170      BUSINESS               192
+13 INTERGOVERNMENTAL RELATIONS      162      PUBLIC FINANCE         191
+14 GOVERNMENT SPENDING              152      CONTEXT                161
+15 NIGERIA                          146      INCENTIVE              140
+
