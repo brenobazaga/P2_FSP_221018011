@@ -1,0 +1,22 @@
+.libPaths(c("C:/Users/Breno/Rlib",.libPaths()))
+suppressMessages({library(bibliometrix);library(ggplot2)})
+setwd(file.path(Sys.getenv("S_DIR"),"data")); M<-readRDS("M_bib.rds"); out<-"C:/Users/Breno/bibout"
+options(width=250)
+txt<-toupper(paste(M$TI,M$AB,M$DE))
+has<-function(p)grepl(p,txt)
+M$fly<-has("FLYPAPER");M$ill<-has("FISCAL ILLUSION");M$ff<-has("FISCAL FEDERALISM");M$igt<-has("INTERGOVERNMENTAL TRANSFER")
+cat("flypaper:",sum(M$fly)," ilusao:",sum(M$ill)," federalismo:",sum(M$ff)," transf:",sum(M$igt)," qualquer:",sum(M$fly|M$ill|M$ff|M$igt),"\n")
+tit<-toupper(M$TI);cat("no titulo - flypaper:",sum(grepl("FLYPAPER",tit))," ilusao:",sum(grepl("FISCAL ILLUSION",tit)),"\n")
+M$per<-cut(M$PY,c(1969,1994,2007,2024),labels=c("1970-1994","1995-2007","2008-2024"))
+print(table(M$per));print(table(M$per,M$fly));print(table(M$per,M$ill))
+print(tapply(M$TC,M$per,mean))
+# keywords por periodo (sem termos de busca)
+q<-c("FISCAL FEDERALISM","FLYPAPER EFFECT","FISCAL ILLUSION","INTERGOVERNMENTAL TRANSFERS")
+for(p in levels(M$per)){k<-trimws(toupper(unlist(strsplit(M$DE[M$per==p],";"))));k<-k[!k%in%q&k!=""];cat("\n",p,"\n");print(head(sort(table(k),decreasing=TRUE),12))}
+# Brasil e Filipinas
+co<-toupper(M$AU_CO)
+br<-which(grepl("BRAZIL",co)|has("BRAZIL|BRASIL"));ph<-which(grepl("PHILIPPINES",co)|has("PHILIPPIN"))
+cat("\nBrasil:",length(br)," Filipinas:",length(ph),"\n")
+print(M[br[order(-M$TC[br])][1:10],c("AU","TI","SO","PY","TC")]);print(M[ph[order(-M$TC[ph])][1:10],c("AU","TI","SO","PY","TC")])
+fl<-which(M$fly);print(M[fl[order(-M$TC[fl])][1:10],c("AU","TI","SO","PY","TC")]);il<-which(M$ill);print(M[il[order(-M$TC[il])][1:10],c("AU","TI","SO","PY","TC")])
+saveRDS(M,"M_bib2.rds")

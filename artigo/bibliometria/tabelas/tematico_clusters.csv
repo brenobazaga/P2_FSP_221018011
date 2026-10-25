@@ -1,0 +1,49 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq"
+1,"fiscal federalism 21.9
+decentralization 2.9
+fiscal transfers 2.5
+federalism 1.8
+intergovernmental relations 1.7
+nigeria 1.5
+regional disparities 1.3
+public finance 1.1
+local government 1
+subnational governments 0.9","fiscal federalism
+decentralization
+fiscal transfers",45,0.19641455809128,2.73029320932935,4,4,"fiscal federalism","#E41A1C80",5413
+2,"intergovernmental transfers 14.7
+fiscal decentralization 9.9
+flypaper effect 6.5
+local government finance 6.1
+local government spending 3.6
+general allocation fund 2.6
+local own-source revenue 2.2
+local government revenue 1.8
+local taxation 1.3
+regional government spending 1.3","intergovernmental transfers
+fiscal decentralization
+flypaper effect",25,0.165482676996741,2.43739611461127,3,2,"intergovernmental transfers","#377EB880",4735
+3,"fiscal illusion 8.7
+government spending 4.3
+economic growth 3.1
+fiscal policy 3
+china 2.5
+tax revenue 2.3
+public debt 2
+fiscal rules 1.7
+budget deficit 1.6
+fiscal discipline 1.6","fiscal illusion
+government spending
+economic growth",18,0.150097837943911,2.37341410739919,2,1,"fiscal illusion","#4DAF4A80",1420
+4,"fiscal equalization 6.5
+ukraine 5.5
+local budgets 4.9
+fiscal capacity 3.4
+russian regions 3.3
+regional budget 3.1
+regional development 3
+local self-government 2.8
+local budget revenues 2.3
+interbudgetary relations 2.1","fiscal equalization
+ukraine
+local budgets",10,0.0718926015585215,2.58803311484494,1,3,"fiscal equalization","#984EA380",617
