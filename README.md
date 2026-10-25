@@ -60,4 +60,4 @@ Requer **R 4.6** com os pacotes `bibliometrix`, `openalexR`, `jsonlite`, `ggplot
 
 ## Limitações
 
-OpenAlex em vez de Web of Science/Scopus; regressões com amostra muito pequena e sem identificação causal; IRRF contabilizado como receita tributária própria; valores do IRA de 2015, 2016 e 2018–2020 vêm de fontes secundárias e devem ser conferidos nos Local Budget Memoranda do DBM. Detalhes na seção 5 do artigo.
+IRRF contabilizado como receita tributária própria; valores do IRA de 2015, 2016 e 2018–2020 vêm de fontes secundárias e devem ser conferidos nos Local Budget Memoranda do DBM. Detalhes na seção 5 do artigo.
