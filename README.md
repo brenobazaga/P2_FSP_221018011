@@ -6,7 +6,7 @@ Artigo sobre **federalismo fiscal, efeito flypaper e ilusão fiscal**, com anál
 
 ## Ponto de partida
 
-O trabalho parte de uma prova anterior (cópia em `trabalho_anterior_original/`). Como ela não trazia a base editável, a base foi **reconstruída a partir de fontes oficiais**, e a versão anterior foi conferida e corrigida. As divergências estão em `base_de_dados_atualizada/Revisao_da_Base_de_Dados.md` e as alterações em `base_de_dados_atualizada/Registro_de_Alteracoes_e_Limitacoes.md`.
+O trabalho parte de uma prova anterior (cópia em `trabalho_anterior_original/`). Como ela não trazia a base editável, a base foi **reconstruída a partir de fontes oficiais**. As alterações em `base_de_dados_atualizada/Registro_de_Alteracoes_e_Limitacoes.md`.
 
 ## Principais resultados
 
